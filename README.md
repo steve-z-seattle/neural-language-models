@@ -14,4 +14,4 @@ TODO:
 * get rid of Swap
 
 Thanks:
-* Inspired by Andrej's
+* Inspired by Andrej's work (https://github.com/karpathy)
