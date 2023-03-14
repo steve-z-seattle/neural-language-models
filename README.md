@@ -12,3 +12,6 @@ TOC:
 TODO:
 * Combine NLM with traditional LM techniques
 * get rid of Swap
+
+Thanks:
+* Inspired by Andrej's
