@@ -2,7 +2,6 @@
 neural language models
 
 TOC:
-* 0: Backprop Engine
 * 1: Neural Bigram LM
 * 2: Neural Ngram LM
 * 3: Misc
